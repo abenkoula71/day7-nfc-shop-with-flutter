@@ -1,5 +1,5 @@
 
- <h1> day3_first_screen</h1>  
+ <h1> day7-nfc-shop-with-flutter</h1>  
 <h4> You can change the information and link it to the databases ....</h4>
 <hr>
 <h3>Home</h3> 
